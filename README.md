@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35336625/README.md)
-
 # Country Hash Table
 
 A Java command-line application that stores and manages country data using a custom hash table. The program implements separate chaining with double-ended singly linked lists to handle collisions efficiently without relying on Java's built-in HashMap class.
